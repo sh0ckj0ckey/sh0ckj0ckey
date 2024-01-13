@@ -1,4 +1,4 @@
-## NoMewing 的隐私策略
+## NoMewing's Privacy Policy
 
 - All data from NoMewing's apps is stored locally on your computer, and we do not collect, store, or share any of your personal information or information related to your device.
 - We do not collect any statistical data or analytics, nor do we track user behavior.
@@ -7,7 +7,7 @@ The app does not collect, store or transmit highly sensitive personal informatio
 - Features such as sharing may be used only to share data through third party applications.
 - If you have any questions please contact yaoyiming123@live.com
 
----
+## NoMewing 的隐私策略
 
 - NoMewing 的应用所有的数据都保存在您的电脑本地，我们不会收集、存储、分享您的任何个人信息或者与您的设备相关的信息。
 - 我们不会收集任何统计数据和分析数据，也不会跟踪用户的行为。
