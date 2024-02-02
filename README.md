@@ -1,5 +1,7 @@
 
+<div>
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
+</div>
 <div>
     <b>sh0ckj0ckey</b>
 </div>
