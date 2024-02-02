@@ -1,4 +1,4 @@
-<table align="center">
+<table align="justify">
 
 <tr>
 
@@ -33,7 +33,7 @@
 
 </tr>
 
-<table align="center">
+<table align="justify">
 <tr>
 <td>
 <img src="Assets/overlook.png" height=72>
