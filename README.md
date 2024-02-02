@@ -1,13 +1,14 @@
-<div align="left">
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
-</div>
 
-<div>
-<div align="left"><b>sh0ckj0ckey</b></div>
-<div align="left"><i>Better to run than curse the road.</i></div>
-</div>
+**sh0ckj0ckey**
+
+<i>Better to run than curse the road.</i>
 
 <table align="left">
+
+<br/>
+<br/>
+<br/
 
 <tr>
 <td>
@@ -70,8 +71,6 @@
 </td>
 </tr>
 </table>
-
----
 
 <div align="left">
 
