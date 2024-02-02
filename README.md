@@ -8,13 +8,6 @@
     <i>Better to run than curse the road.</i>
 </div>
 
----
-
-<div align="center">
-
-![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
-
-</div>
 
 <table align="center">
 <tr>
@@ -78,6 +71,12 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
+
+</div>
 
 <h3>接下来...</h3>
 <ol>
