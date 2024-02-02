@@ -7,12 +7,74 @@
     <i>Better to run than curse the road.</i>
 </div>
 
+---
 
 ![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
 
----
+<table>
+<tr>
+<td>
+<img src="Assets/overlook.png" height=72>
+</td>
+<td>
+<img src="Assets/dotahold.png" height=72>
+</td>
+<td>
+<img src="Assets/flint.png" height=72>
+</td>
+<td>
+<img src="Assets/honeypot.png" height=72>
+</td>
+<td>
+<img src="Assets/summer.png" height=72>
+</td>
+<td>
+<img src="Assets/conscript.png" height=72>
+</td>
+<td>
+<img src="Assets/rainbow.png" height=72>
+</td>
+</tr>
+<tr>
+<td>
 
-<h3>还要做这些...</h3>
+[Overlook](https://github.com/sh0ckj0ckey/Overlook)
+
+</td>
+<td>
+
+[Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
+
+</td>
+<td>
+
+[燧石](https://github.com/sh0ckj0ckey/Flint)
+
+</td>
+<td>
+
+[密罐](https://github.com/sh0ckj0ckey/Honeypot)
+
+</td>
+<td>
+
+[夏墨](https://github.com/sh0ckj0ckey/Summer)
+
+</td>
+<td>
+
+[Conscript](https://github.com/sh0ckj0ckey/Conscript)
+
+</td>
+<td>
+
+[查颜观色](https://github.com/sh0ckj0ckey/Colors.Rainbow)
+
+</td>
+</tr>
+</table>
+
+<h3>接下来...</h3>
 <ol>
 <li>密罐，剩下这两点做好就可以发布啦</li>
 <ol>
