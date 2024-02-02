@@ -1,31 +1,13 @@
-<table align="center">
-
-<tr>
-<td>
 <div align="left">
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
 </div>
-</td>
 
-<td>
 <div>
-<div align="left">
-    <b>sh0ckj0ckey</b>
+<div align="left"><b>sh0ckj0ckey</b></div>
+<div align="left"><i>Better to run than curse the road.</i></div>
 </div>
-<div align="left">
-    <i>Better to run than curse the road.</i>
-</div>
-</div>
-</td>
 
-<td>
-<div align="right">
-
-![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
-
-</div>
-</td>
-</tr>
+<table align="left">
 
 <tr>
 <td>
@@ -87,7 +69,17 @@
 
 </td>
 </tr>
-<tr>
+</table>
+
+---
+
+<div align="left">
+
+![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
+
+</div>
+
+---
 
 <h3>接下来...</h3>
 <ol>
@@ -120,5 +112,3 @@
 <li>功能逐渐完善</li>
 </ol>
 </ol>
-</tr>
-</table>
