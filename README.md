@@ -1,19 +1,14 @@
-<table>
-<tr>
-<td>
+
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
-</td>
-<td>
 <div>
     <div>
-        <font size=6><b>sh0ckj0ckey</b></font>
+        <font size=4><b>sh0ckj0ckey</b></font>
     </div>
     <div>
         <i>Better to run than curse the road.</i>
     </div>
 </div>
-</td>
-</table>
+
 
 ![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
 
