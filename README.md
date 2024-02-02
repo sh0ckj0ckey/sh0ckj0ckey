@@ -1,17 +1,13 @@
-<table align="justify">
+<table align="center">
 
 <tr>
-
 <td>
-
 <div align="left">
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
 </div>
-
 </td>
 
 <td>
-
 <div>
 <div align="left">
     <b>sh0ckj0ckey</b>
@@ -20,7 +16,6 @@
     <i>Better to run than curse the road.</i>
 </div>
 </div>
-
 </td>
 
 <td>
@@ -30,10 +25,8 @@
 
 </div>
 </td>
-
 </tr>
 
-<table align="justify">
 <tr>
 <td>
 <img src="Assets/overlook.png" height=72>
@@ -94,7 +87,7 @@
 
 </td>
 </tr>
-</table>
+<tr>
 
 <h3>接下来...</h3>
 <ol>
@@ -127,3 +120,5 @@
 <li>功能逐渐完善</li>
 </ol>
 </ol>
+</tr>
+</table>
