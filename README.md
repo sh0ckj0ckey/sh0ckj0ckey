@@ -1,10 +1,16 @@
-<table>
+<table align="center">
 
-<tr><td>
+<tr>
+
+<td>
 
 <div align="left">
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
 </div>
+
+</td>
+
+<td>
 
 <div>
 <div align="left">
@@ -15,15 +21,17 @@
 </div>
 </div>
 
+</td>
+
+<td>
 <div align="right">
 
 ![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
 
 </div>
+</td>
 
-</td></tr>
-
-<tr><td>
+</tr>
 
 <table align="center">
 <tr>
@@ -88,10 +96,6 @@
 </tr>
 </table>
 
-</tr></td>
-
-<tr><td>
-
 <h3>接下来...</h3>
 <ol>
 <li>密罐，剩下这两点做好就可以发布啦</li>
@@ -123,5 +127,3 @@
 <li>功能逐渐完善</li>
 </ol>
 </ol>
-
-</tr></td>
