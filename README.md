@@ -1,5 +1,5 @@
 <div>
-<img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
+<img src="Assets/me.png" height=96 alt="我的照片" title="我的照片">
 </div>
 
 ### sh0ckj0ckey
@@ -7,7 +7,11 @@
 <i>Better to run than curse the road.</i>
 
 <br/>
-<br/>
+<div align="left">
+
+![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
+
+</div>
 
 <table align="left">
 
@@ -72,12 +76,6 @@
 </td>
 </tr>
 </table>
-
-<div align="left">
-
-![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
-
-</div>
 
 ---
 
