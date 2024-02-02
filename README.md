@@ -12,9 +12,8 @@
 
 </div>
 
-<br/>
-
-<table align="left">
+#### [© NoMewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
+<table>
 
 <tr>
 <td>
@@ -77,8 +76,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
