@@ -1,19 +1,22 @@
-
-<div>
+<div align="center">
 <img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
 </div>
-<div>
+<div align="center">
     <b>sh0ckj0ckey</b>
 </div>
-<div>
+<div align="center">
     <i>Better to run than curse the road.</i>
 </div>
 
 ---
 
+<div align="center">
+
 ![sh0ckj0ckey's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh0ckj0ckey&layout=compact&hide_border=true&langs_count=4&theme=solarized-dark)
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 <td>
 <img src="Assets/overlook.png" height=72>
