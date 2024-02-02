@@ -5,12 +5,12 @@
 <table>
 <tr>
 <td>
-<img src="Assets/me.png" height=40 alt="我的照片" title="我的照片">
+<img src="Assets/me.png" height=64 alt="我的照片" title="我的照片">
 </td>
 <td>
 <div>
     <div>
-        <font size=4><b>sh0ckj0ckey</b></font>
+        <font size=6><b>sh0ckj0ckey</b></font>
     </div>
     <div>
         <i>Better to run than curse the road.</i>
