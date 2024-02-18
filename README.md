@@ -28,15 +28,6 @@
 <td>
 <img src="Assets/honeypot.png" height=72>
 </td>
-<td>
-<img src="Assets/summer.png" height=72>
-</td>
-<td>
-<img src="Assets/conscript.png" height=72>
-</td>
-<td>
-<img src="Assets/rainbow.png" height=72>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -59,6 +50,22 @@
 [密罐](https://github.com/sh0ckj0ckey/Honeypot)
 
 </td>
+</tr>
+<tr>
+<td>
+<img src="Assets/summer.png" height=72>
+</td>
+<td>
+<img src="Assets/conscript.png" height=72>
+</td>
+<td>
+<img src="Assets/rainbow.png" height=72>
+</td>
+<td>
+<img src="Assets/fishtime.png" height=72>
+</td>
+</tr>
+<tr>
 <td align="center">
 
 [夏墨](https://github.com/sh0ckj0ckey/Summer)
@@ -74,6 +81,11 @@
 [查颜观色](https://github.com/sh0ckj0ckey/Colors.Rainbow)
 
 </td>
+<td align="center">
+
+[废时](https://github.com/sh0ckj0ckey/FishTime)
+
+</td>
 </tr>
 </table>
 
@@ -85,7 +97,7 @@
 - [x] ~~功能重做~~
 - [ ] 数据迁移功能
 ##### 2. 废时
-- [ ] 画一个图标
+- [x] ~~画一个图标~~
 - [ ] 画好多鱼
 - [ ] 实现简单的功能
 ##### 3. 图蝶
