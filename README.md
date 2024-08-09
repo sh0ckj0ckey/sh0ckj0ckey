@@ -73,7 +73,7 @@
 </td>
 <td align="center">
 
-[夏墨](https://github.com/sh0ckj0ckey/Summer)
+[暇墨](https://github.com/sh0ckj0ckey/Summer)
 
 </td>
 <td align="center">
