@@ -89,7 +89,7 @@
 </tr>
 <tr>
 <td>
-<img src="Assets/conscript.png" height=72>
+<img src="Assets/conscripts.png" height=72>
 </td>
 <td>
 
@@ -104,7 +104,7 @@
 <tr>
 <td align="center">
 
-[Conscript](https://github.com/sh0ckj0ckey/Conscript)
+[Conscripts](https://github.com/sh0ckj0ckey/Conscripts)
 
 </td>
 <td align="center">
