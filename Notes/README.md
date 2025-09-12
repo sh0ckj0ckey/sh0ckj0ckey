@@ -65,3 +65,9 @@ WinUI 3 目前不像 UWP 支持直接打出 appxbundle、msixbundle 这种类型
 这样打的包才会附带运行时，否则在一些电脑上运行时会弹出弹窗，称需要安装或更新 .Net 才可以运行此软件 (Microsoft.NETCore.App)
 
 ---
+
+### UWP 或 WinUI 3 项目证书文件丢失
+
+打开项目的 `csproj` 文件，找到 `PackageCertificateThumbprint` 和 `PackageCertificateKeyFile` 这两项，删掉，然后在 `项目-发布` 里面关联一下商店就会重新生成
+
+---
