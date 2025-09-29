@@ -32,7 +32,7 @@
 <tr>
 <td align="center">
 
-[Overlook[WIP]](https://github.com/sh0ckj0ckey/Overlook)
+[Overlook](https://github.com/sh0ckj0ckey/Overlook)
 
 </td>
 <td align="center">
@@ -78,7 +78,7 @@
 </td>
 <td align="center">
 
-[废时[WIP]](https://github.com/sh0ckj0ckey/FishTime)
+[废时](https://github.com/sh0ckj0ckey/FishTime)
 
 </td>
 <td align="center">
