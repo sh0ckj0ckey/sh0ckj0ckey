@@ -1,8 +1,8 @@
 <div>
-<img src="Assets/me.png" height=96 alt="我的照片" title="我的照片">
+<img src="Assets/nunu.png" height=96 alt="我的照片" title="我的照片">
 </div>
 
-### sh0ckj0ckey
+### Yao Yiming
 
 <i>Better to run than curse the road.</i>
 
