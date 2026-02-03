@@ -55,7 +55,7 @@
 </td>
 <td align="center">
 
-[Tintenklecks](https://github.com/sh0ckj0ckey/Tintenklecks)
+[墨水渍](https://github.com/sh0ckj0ckey/Tintenklecks)
 
 </td>
 </tr>
