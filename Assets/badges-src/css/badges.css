@@ -1,0 +1,133 @@
+@font-face {
+  font-family: 'Radiance';
+  src: url('../fonts/Radiance.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --dotnet: #512bd4;
+  --csharp: #239120;
+  --wpf: #68217a;
+  --uwp: #0078d4;
+  --winui3: #005fb8;
+  --electron: #47848f;
+  --typescript: #3178c6;
+  --vue: #42b883;
+  --vs: #5c2d91;
+  --vsc: #007acc;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 28px;
+  border-radius: 4px;
+  padding: 0 8px;
+  font-family: 'Radiance';
+  font-size: 17px;
+  color: #fff;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.25),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.3),
+    0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.badge__icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+
+  background-color: rgba(255, 255, 255, 0.95);
+
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+
+.badge--dotnet {
+  background: var(--dotnet);
+}
+.badge--dotnet .badge__icon {
+  mask-image: url('../icons/dotnet.svg');
+  -webkit-mask-image: url('../icons/dotnet.svg');
+}
+
+.badge--csharp {
+  background: var(--csharp);
+}
+.badge--csharp .badge__icon {
+  mask-image: url('../icons/csharp.svg');
+  -webkit-mask-image: url('../icons/csharp.svg');
+}
+
+.badge--wpf {
+  background: var(--wpf);
+}
+.badge--wpf .badge__icon {
+  mask-image: url('../icons/wpf.svg');
+  -webkit-mask-image: url('../icons/wpf.svg');
+}
+
+.badge--uwp {
+  background: var(--uwp);
+}
+.badge--uwp .badge__icon {
+  mask-image: url('../icons/uwp.svg');
+  -webkit-mask-image: url('../icons/uwp.svg');
+}
+
+.badge--winui3 {
+  background: var(--winui3);
+}
+.badge--winui3 .badge__icon {
+  mask-image: url('../icons/winui3.svg');
+  -webkit-mask-image: url('../icons/winui3.svg');
+}
+
+.badge--vs {
+  background: var(--vs);
+}
+.badge--vs .badge__icon {
+  mask-image: url('../icons/vs.svg');
+  -webkit-mask-image: url('../icons/vs.svg');
+}
+
+.badge--electron {
+  background: var(--electron);
+}
+.badge--electron .badge__icon {
+  mask-image: url('../icons/electron.svg');
+  -webkit-mask-image: url('../icons/electron.svg');
+}
+
+.badge--typescript {
+  background: var(--typescript);
+}
+.badge--typescript .badge__icon {
+  mask-image: url('../icons/typescript.svg');
+  -webkit-mask-image: url('../icons/typescript.svg');
+}
+
+.badge--vue {
+  background: var(--vue);
+}
+.badge--vue .badge__icon {
+  mask-image: url('../icons/vue.svg');
+  -webkit-mask-image: url('../icons/vue.svg');
+}
+
+.badge--vsc {
+  background: var(--vsc);
+}
+.badge--vsc .badge__icon {
+  mask-image: url('../icons/vsc.svg');
+  -webkit-mask-image: url('../icons/vsc.svg');
+}
