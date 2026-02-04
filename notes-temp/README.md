@@ -9,7 +9,7 @@
 > 小磁贴下增加图标所占空间，以此提高可见性。
 
 <div>
-<img src="Assets/small.png" height=96>
+<img src="assets/small.png" height=96>
 </div>
 
 #### 2. 中磁贴、宽磁贴、大磁贴：50%
@@ -17,7 +17,7 @@
 > 这三种磁贴相比于小磁贴都更加易读，因此图标所占空间相对较少，视觉上更加协调。
 
 <div>
-<img src="Assets/medium.png" height=96>
+<img src="assets/medium.png" height=96>
 </div>
 
 #### 3. 应用图标：100%
@@ -29,7 +29,7 @@
 > UWP 应用启动时默认会显示启动图标。
 
 <div>
-<img src="Assets/splashscreen.png" height=96>
+<img src="assets/splashscreen.png" height=96>
 </div>
 
 #### 5. 商店图标：60%
@@ -37,7 +37,7 @@
 > 如果上架应用商店时没有特别设置展示图标，则会使用这个图标，它会显示在应用商店的各个位置，并被应用商店添加外边框；比例不宜过高，会让图标与外边框太近，也不宜过低，在应用详情页中会很不协调。
 
 <div>
-<img src="Assets/store.png" height=96>
+<img src="assets/store.png" height=96>
 </div>
 
 ---

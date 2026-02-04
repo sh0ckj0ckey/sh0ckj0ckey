@@ -1,5 +1,5 @@
 <div>
-<img src="Assets/Avatars/nunu.png" height=96 alt="我的照片" title="我的照片">
+<img src="Assets/avatars/nunu.png" height=96 alt="我的照片" title="我的照片">
 </div>
 
 ### Yao Yiming
@@ -24,16 +24,16 @@
 
 <tr>
 <td>
-<img src="Assets/Logos/overlook.png" height=72>
+<img src="Assets/logos/overlook.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/dotahold.png" height=72>
+<img src="Assets/logos/dotahold.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/flint.png" height=72>
+<img src="Assets/logos/flint.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/tintenklecks.png" height=72>
+<img src="Assets/logos/tintenklecks.png" height=72>
 </td>
 </tr>
 
@@ -62,16 +62,16 @@
 
 <tr>
 <td>
-<img src="Assets/Logos/summer.png" height=72>
+<img src="Assets/logos/summer.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/winter.png" height=72>
+<img src="Assets/logos/winter.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/fishtime.png" height=72>
+<img src="Assets/logos/fishtime.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/honeypot.png" height=72>
+<img src="Assets/logos/honeypot.png" height=72>
 </td>
 </tr>
 
@@ -100,13 +100,13 @@
 
 <tr>
 <td>
-<img src="Assets/Logos/conscripts.png" height=72>
+<img src="Assets/logos/conscripts.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/picharm.png" height=72>
+<img src="Assets/logos/picharm.png" height=72>
 </td>
 <td>
-<img src="Assets/Logos/rainbow.png" height=72>
+<img src="Assets/logos/rainbow.png" height=72>
 </td>
 <td>
 
