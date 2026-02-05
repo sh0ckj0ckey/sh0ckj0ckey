@@ -2,12 +2,14 @@
   <style>
     /* .st0 { fill: #42B883; }
     .st1 { fill: #35495E; } */
+    /* .st0 { fill: #ffffff88; }
+    .st1 { fill: #ffffffee; } */
     .st0 {
-      fill: #ffffff88;
+      fill: #ffffffee;
     }
 
     .st1 {
-      fill: #ffffffee;
+      fill: #a7dec5;
     }
   </style>
   <path class="st0" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" />

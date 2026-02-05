@@ -43,8 +43,6 @@
 }
 
 .badge__icon {
-  width: 20px;
-  height: 20px;
   flex-shrink: 0;
   background-size: contain;
   background-repeat: no-repeat;
@@ -56,6 +54,8 @@
 }
 .badge--dotnet .badge__icon {
   background-image: url('../icons/dotnet.svg');
+  width: 20px;
+  height: 20px;
 }
 
 .badge--csharp {
@@ -72,6 +72,8 @@
 }
 .badge--wpf .badge__icon {
   background-image: url('../icons/wpf.svg');
+  width: 20px;
+  height: 20px;
 }
 
 .badge--uwp {
@@ -79,6 +81,8 @@
 }
 .badge--uwp .badge__icon {
   background-image: url('../icons/uwp.svg');
+  width: 20px;
+  height: 20px;
 }
 
 .badge--winui3 {
@@ -86,6 +90,8 @@
 }
 .badge--winui3 .badge__icon {
   background-image: url('../icons/winui3.svg');
+  width: 20px;
+  height: 20px;
 }
 
 .badge--vs {
@@ -93,6 +99,8 @@
 }
 .badge--vs .badge__icon {
   background-image: url('../icons/vs.svg');
+  width: 20px;
+  height: 20px;
 }
 
 .badge--electron {
@@ -110,6 +118,8 @@
 }
 .badge--typescript .badge__icon {
   background-image: url('../icons/typescript.svg');
+  width: 18px;
+  height: 18px;
 }
 
 .badge--vue {
@@ -117,6 +127,8 @@
 }
 .badge--vue .badge__icon {
   background-image: url('../icons/vue.svg');
+  width: 20px;
+  height: 20px;
 }
 
 .badge--vsc {
@@ -124,4 +136,6 @@
 }
 .badge--vsc .badge__icon {
   background-image: url('../icons/vsc.svg');
+  width: 20px;
+  height: 20px;
 }
