@@ -24,8 +24,8 @@
     <defs>
         <radialGradient id="paint0_radial_86_1377" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
             gradientTransform="translate(111.38 111.034) scale(124.302 124.302)">
-            <stop offset="0.2" stop-color="#fffffff2" />
-            <stop offset="0.8" stop-color="#ffffffff" />
+            <stop offset="0.2" stop-color="#ffffffcc" />
+            <stop offset="0.8" stop-color="#ffffffd9" />
         </radialGradient>
         <radialGradient id="paint1_radial_86_1377" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
             gradientTransform="translate(113.391 110.896) scale(118.84 297.369)">
