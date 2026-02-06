@@ -7,19 +7,19 @@
 <i>Better to run than curse the road.</i>
 
 <div align="left">
-  <img src="./assets/badges/dotnet.png" height="32" alt=".NET" />
-  <img src="./assets/badges/csharp.png" height="32" alt="C#" />
-  <img src="./assets/badges/wpf.png" height="32" alt="WPF" />
-  <img src="./assets/badges/uwp.png" height="32" alt="UWP" />
-  <img src="./assets/badges/winui3.png" height="32" alt="WinUI 3" />
-  <img src="./assets/badges/vs.png" height="32" alt="Visual Studio" />
+  <img src="./assets/badges/dotnet.png" height="33.25" alt=".NET" />
+  <img src="./assets/badges/csharp.png" height="33.25" alt="C#" />
+  <img src="./assets/badges/wpf.png" height="33.25" alt="WPF" />
+  <img src="./assets/badges/uwp.png" height="33.25" alt="UWP" />
+  <img src="./assets/badges/winui3.png" height="33.25" alt="WinUI 3" />
+  <img src="./assets/badges/vs.png" height="33.25" alt="Visual Studio" />
 </div>
 
 <div align="left">
-  <img src="./assets/badges/electron.png" height="32" prove alt="Electron" />
-  <img src="./assets/badges/typescript.png" height="32" alt="TypeScript" />
-  <img src="./assets/badges/vue.png" height="32" alt="Vue.js" />
-  <img src="./assets/badges/vsc.png" height="32" alt="Visual Studio Code" />
+  <img src="./assets/badges/electron.png" height="33.25" prove alt="Electron" />
+  <img src="./assets/badges/typescript.png" height="33.25" alt="TypeScript" />
+  <img src="./assets/badges/vue.png" height="33.25" alt="Vue.js" />
+  <img src="./assets/badges/vsc.png" height="33.25" alt="Visual Studio Code" />
 </div>
 
 #### [© NoMewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
