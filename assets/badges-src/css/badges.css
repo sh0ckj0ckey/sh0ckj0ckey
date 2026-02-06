@@ -9,7 +9,7 @@
 :root {
   --dotnet: #512bd4;
   --csharp: #7355dd;
-  --wpf: #9b4f95;
+  --wpf: #3d35b1;
   --uwp: #0c54c2;
   --winui3: #0078d4;
   --electron: #2f3242;
@@ -56,6 +56,7 @@
   background-image: url('../icons/dotnet.svg');
   width: 20px;
   height: 20px;
+  margin-right: 2px;
 }
 
 .badge--csharp {
@@ -65,6 +66,7 @@
   background-image: url('../icons/csharp.svg');
   width: 24px;
   height: 24px;
+  margin-left: -3px;
 }
 
 .badge--wpf {
@@ -72,8 +74,11 @@
 }
 .badge--wpf .badge__icon {
   background-image: url('../icons/wpf.svg');
-  width: 20px;
-  height: 20px;
+  width: 34px;
+  height: 34px;
+  margin-top: -5px;
+  margin-left: -8px;
+  margin-right: -8px;
 }
 
 .badge--uwp {
@@ -83,6 +88,7 @@
   background-image: url('../icons/uwp.svg');
   width: 20px;
   height: 20px;
+  margin-right: 1px;
 }
 
 .badge--winui3 {
@@ -92,6 +98,7 @@
   background-image: url('../icons/winui3.svg');
   width: 20px;
   height: 20px;
+  margin-right: 1px;
 }
 
 .badge--vs {
@@ -101,6 +108,7 @@
   background-image: url('../icons/vs.svg');
   width: 20px;
   height: 20px;
+  margin-right: 2px;
 }
 
 .badge--electron {
@@ -110,7 +118,8 @@
   background-image: url('../icons/electron.svg');
   width: 26px;
   height: 26px;
-  margin-right: -4px;
+  margin-left: -5px;
+  margin-right: -2px;
 }
 
 .badge--typescript {
@@ -120,6 +129,7 @@
   background-image: url('../icons/typescript.svg');
   width: 18px;
   height: 18px;
+  margin-right: 3px;
 }
 
 .badge--vue {
@@ -129,6 +139,7 @@
   background-image: url('../icons/vue.svg');
   width: 20px;
   height: 20px;
+  margin-right: 1px;
 }
 
 .badge--vsc {
@@ -138,4 +149,5 @@
   background-image: url('../icons/vsc.svg');
   width: 20px;
   height: 20px;
+  margin-right: 3px;
 }
