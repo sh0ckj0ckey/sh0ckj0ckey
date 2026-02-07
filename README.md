@@ -22,6 +22,12 @@
   <img src="./assets/badges/vsc.png" height="33.25" alt="Visual Studio Code" />
 </div>
 
+<div align="left">
+  <img src="./assets/badges/git.png" height="33.25" prove alt="Git" />
+  <img src="./assets/badges/gimp.png" height="33.25" alt="GIMP" />
+  <img src="./assets/badges/inkscape.png" height="33.25" alt="Inkscape" />
+</div>
+
 #### [© NoMewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
 
 <table>
