@@ -7,25 +7,25 @@
 <i>Better to run than curse the road.</i>
 
 <div align="left">
-  <img src="./assets/badges/dotnet.png" height="33.25" alt=".NET" />
-  <img src="./assets/badges/csharp.png" height="33.25" alt="C#" />
-  <img src="./assets/badges/wpf.png" height="33.25" alt="WPF" />
-  <img src="./assets/badges/uwp.png" height="33.25" alt="UWP" />
-  <img src="./assets/badges/winui3.png" height="33.25" alt="WinUI 3" />
-  <img src="./assets/badges/vs.png" height="33.25" alt="Visual Studio" />
+  <img src="./assets/badges/dotnet.png" height="37" alt=".NET" />
+  <img src="./assets/badges/csharp.png" height="37" alt="C#" />
+  <img src="./assets/badges/wpf.png" height="37" alt="WPF" />
+  <img src="./assets/badges/uwp.png" height="37" alt="UWP" />
+  <img src="./assets/badges/winui3.png" height="37" alt="WinUI 3" />
+  <img src="./assets/badges/vs.png" height="37" alt="Visual Studio" />
 </div>
 
 <div align="left">
-  <img src="./assets/badges/electron.png" height="33.25" prove alt="Electron" />
-  <img src="./assets/badges/typescript.png" height="33.25" alt="TypeScript" />
-  <img src="./assets/badges/vue.png" height="33.25" alt="Vue.js" />
-  <img src="./assets/badges/vsc.png" height="33.25" alt="Visual Studio Code" />
+  <img src="./assets/badges/electron.png" height="37" prove alt="Electron" />
+  <img src="./assets/badges/typescript.png" height="37" alt="TypeScript" />
+  <img src="./assets/badges/vue.png" height="37" alt="Vue.js" />
+  <img src="./assets/badges/vsc.png" height="37" alt="Visual Studio Code" />
 </div>
 
 <div align="left">
-  <img src="./assets/badges/git.png" height="33.25" prove alt="Git" />
-  <img src="./assets/badges/gimp.png" height="33.25" alt="GIMP" />
-  <img src="./assets/badges/inkscape.png" height="33.25" alt="Inkscape" />
+  <img src="./assets/badges/git.png" height="37" prove alt="Git" />
+  <img src="./assets/badges/gimp.png" height="37" alt="GIMP" />
+  <img src="./assets/badges/inkscape.png" height="37" alt="Inkscape" />
 </div>
 
 #### [© NoMewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
