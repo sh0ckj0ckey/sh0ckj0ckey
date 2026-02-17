@@ -22,11 +22,11 @@
   <img src="./assets/badges/vsc.png" height="37" alt="Visual Studio Code" />
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <img src="./assets/badges/git.png" height="37" prove alt="Git" />
   <img src="./assets/badges/gimp.png" height="37" alt="GIMP" />
   <img src="./assets/badges/inkscape.png" height="37" alt="Inkscape" />
-</div>
+</div> -->
 
 #### [© NoMewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
 
