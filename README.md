@@ -22,125 +22,18 @@
   <img src="./assets/badges/vsc.png" height="37" alt="Visual Studio Code" />
 </div>
 
-<!-- <div align="left">
-  <img src="./assets/badges/git.png" height="37" prove alt="Git" />
-  <img src="./assets/badges/gimp.png" height="37" alt="GIMP" />
-  <img src="./assets/badges/inkscape.png" height="37" alt="Inkscape" />
-</div> -->
+#### [© No Mewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
 
-#### [© NoMewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
-
-<table>
-
-<tr>
-<td>
-<img src="assets/logos/overlook.png" height=72>
-</td>
-<td>
-<img src="assets/logos/dotahold.png" height=72>
-</td>
-<td>
-<img src="assets/logos/flint.png" height=72>
-</td>
-<td>
-<img src="assets/logos/tintenklecks.png" height=72>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-[Overlook](https://github.com/sh0ckj0ckey/Overlook)
-
-</td>
-<td align="center">
-
-[Dotahold](https://github.com/sh0ckj0ckey/Dotahold)
-
-</td>
-<td align="center">
-
-[燧石](https://github.com/sh0ckj0ckey/Flint)
-
-</td>
-<td align="center">
-
-[墨水渍](https://github.com/sh0ckj0ckey/Tintenklecks)
-
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/logos/summer.png" height=72>
-</td>
-<td>
-<img src="assets/logos/winter.png" height=72>
-</td>
-<td>
-<img src="assets/logos/fishtime.png" height=72>
-</td>
-<td>
-<img src="assets/logos/honeypot.png" height=72>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-[暇墨](https://github.com/sh0ckj0ckey/Summer)
-
-</td>
-<td align="center">
-
-[莺歌](https://github.com/sh0ckj0ckey/Winter)
-
-</td>
-<td align="center">
-
-[废时](https://github.com/sh0ckj0ckey/FishTime)
-
-</td>
-<td align="center">
-
-[密罐](https://github.com/sh0ckj0ckey/Honeypot)
-
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/logos/conscripts.png" height=72>
-</td>
-<td>
-<img src="assets/logos/picharm.png" height=72>
-</td>
-<td>
-<img src="assets/logos/rainbow.png" height=72>
-</td>
-<td>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-[Conscripts](https://github.com/sh0ckj0ckey/Conscripts)
-
-</td>
-<td align="center">
-
-[图蝶](https://github.com/sh0ckj0ckey/Picharm)
-
-</td>
-<td align="center">
-
-[查颜观色](https://github.com/sh0ckj0ckey/Colors.Rainbow)
-
-</td>
-<td align="center">
-
-</td>
-</tr>
-</table>
+|  |  |
+| --- | --- |
+| <img src="assets/logos/overlook.png" alt="Overlook" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Overlook">Overlook</a></strong><br /> A lightweight, simple, and bloodstained email app. |
+| <img src="assets/logos/dotahold.png" alt="Dotahold" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Dotahold">Dotahold</a></strong><br /> A third-party Dota2 statistics app powered by OpenDota. |
+| <img src="assets/logos/flint.png" alt="Flint" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Flint">燧石</a></strong><br /> Flint is a fast, offline dictionary app for instant word lookup. |
+| <img src="assets/logos/tintenklecks.png" alt="Tintenklecks" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Tintenklecks">墨水渍</a></strong><br /> Tintenklecks Gallery is a desktop demonstration app for UI components built with Electron and Vue 3. |
+| <img src="assets/logos/summer.png" alt="Summer" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Summer">暇墨</a></strong><br /> Summer is a pure sketchpad with fast launch. |
+| <img src="assets/logos/winter.png" alt="Winter" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Winter">莺歌</a></strong><br /> Winter is an elegant local music player. |
+| <img src="assets/logos/fishtime.png" alt="FishTime" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/FishTime">废时</a></strong><br /> FishTime is a fresh fish themed countdown timer. |
+| <img src="assets/logos/honeypot.png" alt="Honeypot" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Honeypot">密罐</a></strong><br /> Honeypot keeps your passwords safe and stored locally. |
+| <img src="assets/logos/conscripts.png" alt="Conscripts" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Conscripts">Conscripts</a></strong><br /> Organizes BAT and PS1 scripts into neatly arranged cards. |
+| <img src="assets/logos/picharm.png" alt="Picharm" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Picharm">图蝶</a></strong><br /> Picharm is a third party app for browsing the Tuchong photography community. |
+| <img src="assets/logos/rainbow.png" alt="Colors.Rainbow" width="72" /> | <strong><a href="https://github.com/sh0ckj0ckey/Colors.Rainbow">查颜观色</a></strong><br /> Colors.Rainbow makes it easy to preview colors built in C#. |
