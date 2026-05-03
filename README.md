@@ -24,7 +24,7 @@
 
 #### [© No Mewing](https://apps.microsoft.com/search/publisher?name=No+Mewing)
 
-|  | Apps |
+| Apps |  |
 | --- | --- |
 | <img src="assets/logos/dotahold.png" alt="Dotahold" width="48" /> | <strong><a href="https://github.com/sh0ckj0ckey/Dotahold">Dotahold</a></strong><br /> A third-party Dota2 statistics app powered by OpenDota. |
 | <img src="assets/logos/flint.png" alt="Flint" width="48" /> | <strong><a href="https://github.com/sh0ckj0ckey/Flint">燧石</a></strong><br /> Flint is a fast, offline dictionary app for instant word lookup. |
